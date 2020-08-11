@@ -4,4 +4,5 @@ A simple readme file
 Another line
 
 Latest update
-not a problem
+
+Some updates on a branch
